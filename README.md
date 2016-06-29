@@ -20,13 +20,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
 ## Challenges
- ### One thing I learnt which wasn't there in the video/slides was the option 'Synchronize' right after adding code in build.gradle.
- ### The app was crashing often after I removed todoItems = new ArrayList<String>(); so I had to restart it.
- ### I had to read up on how ArrayList, ArrayAdapter work, whilst debugging errors. 
- ### It was a good experience designing the app and following instructions which were very well designed.
+ 1. One thing I learnt which wasn't there in the video/slides was the option 'Synchronize' right after adding code in build.gradle.
+ 2. The app was crashing often after I removed todoItems = new ArrayList<String>(); so I had to restart it.
+ 3. I had to read up on how ArrayList, ArrayAdapter work, whilst debugging errors. 
+ 4. It was a good experience designing the app and following instructions which were very well designed.
 
 
 ## License
